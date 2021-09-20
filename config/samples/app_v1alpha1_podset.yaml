@@ -1,0 +1,8 @@
+apiVersion: app.example.com/v1alpha1
+kind: Podset
+metadata:
+  name: podset-sample
+spec:
+  replicas: 3
+
+
